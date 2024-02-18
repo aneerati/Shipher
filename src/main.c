@@ -2,5 +2,6 @@
 
 int main()
 {
-    printf("Test\n");
+    shamir(1, 2, 3);
+    return 0;
 }
